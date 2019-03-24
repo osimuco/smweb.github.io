@@ -1,0 +1,5 @@
+body{
+	background-image:url("turkbayragi.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;/*arka plandaki resim sabit kalir asagi indigimizde bile*/
+}
